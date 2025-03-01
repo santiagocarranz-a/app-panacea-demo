@@ -1,8 +1,13 @@
-## App Panacea Demo
+<p align="center">
+  <img src="https://github.com/santiagocarranz-a/app-panacea-demo/blob/main/img.png" alt="imagen de presentación del sitio web"/>
+</p>
 
-Este repositorio contiene el enlace a la demo de la aplicación web responsive desarrollada para la empresa **Panacea**
+<h1 align="center">App Panacea Demo</h1>
+<br>
 
-## Tareas en las que trabaje:
+Este repositorio contiene el enlace a la demo de la aplicación web responsive desarrollada para la empresa **Panacea**.
+
+## Tareas en las que trabajé:
 
 - **Análisis de requerimientos** y comunicación con el cliente.
 - **Elaboración del presupuesto** y planificación del desarrollo.
