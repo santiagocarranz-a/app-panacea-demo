@@ -41,7 +41,7 @@ El **frontend (Angular)** consume los servicios expuestos por el **backend (Node
 
 ### 📸 Vista previa
 <p align="center">
-  <img src="https://github.com/santiagocarranz-a/app-panacea-demo/blob/main/img.png" alt="Pantalla principal de la aplicación"/>
+  <img src="https://github.com/santiagocarranz-a/app-panacea-demo/blob/main/img/img.png" alt="Pantalla principal de la aplicación"/>
   <img src="https://github.com/santiagocarranz-a/app-panacea-demo/blob/main/img/home-mobil.png" alt="Vista móvil del inicio"/>
   <img src="https://github.com/santiagocarranz-a/app-panacea-demo/blob/main/img/login.png" alt="Pantalla de inicio de sesión"/>
   <img src="https://github.com/santiagocarranz-a/app-panacea-demo/blob/main/img/elegir-profesional.png" alt="Selección de profesional médico"/>
